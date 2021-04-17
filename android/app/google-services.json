@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028640838948",
+    "firebase_url": "https://air-control-5fd80.firebaseio.com",
+    "project_id": "air-control-5fd80",
+    "storage_bucket": "air-control-5fd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028640838948:android:83ca9c039242ae18348fb1",
+        "android_client_info": {
+          "package_name": "com.aircontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028640838948-j5n01l0o5huk0ceo67kt0fi5mor0h91q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIEXKY6YWnRmY7CiQHo7yDs6sgMr_7T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028640838948-j5n01l0o5huk0ceo67kt0fi5mor0h91q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
